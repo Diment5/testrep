@@ -85,4 +85,5 @@ print(nm2)
 # presumabaly still numpy
 # i feel like an idiot looping through all the index 
 # after seeing that one function from numpy
+#testrep2 push
 
